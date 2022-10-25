@@ -283,7 +283,7 @@ function App() {
 
         <div className="row row-cols-1 row-cols-md-3 g-4">
 
-          <div className="class123 mt-0">
+          <div className="class123 ">
             <div id="carouselExampleIndicators" className="carousel" data-bs-ride="">
               <div className="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
@@ -427,7 +427,7 @@ function App() {
             </div>
           </div>
 
-          <div className="mt-0">
+          <div className="">
             <div id="carouselExampleIndicators" className="carousel" data-bs-ride="">
               <div className="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
@@ -571,7 +571,7 @@ function App() {
             </div>
           </div>
 
-          <div className="mt-0">
+          <div className="">
             <div id="carouselExampleIndicators" className="carousel" data-bs-ride="">
               <div className="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
